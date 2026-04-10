@@ -10,3 +10,5 @@ udemy.com/course/sc-900-fundamentos-de-seguridad-cumplimiento-e-identidad/learn/
 Videos:
 https://www.youtube.com/watch?v=IMVGZtvrDPI&t=870s
 https://www.youtube.com/watch?v=i3gyUGynsMI
+
+Mucha suerte en el examen !!!
